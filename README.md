@@ -39,7 +39,7 @@ f_name1=value1&f_name2=value2
 ## Старт
 
 ```bash
-git clone git@github.com:sergeev-m/...
+git@github.com:sergeev-m/forms_mongo.git
 
 # Переименовать .env.example на .env
 
